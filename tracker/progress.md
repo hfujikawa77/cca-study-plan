@@ -12,7 +12,7 @@
 ## Weekly Review
 | Week | Focus | Status | Notes |
 |---|---|---|---|
-| 2026-04-25 to 2026-05-01 | Foundation and scope mapping | planned | |
+| 2026-04-25 to 2026-05-01 | Foundation and scope mapping | in progress | 4/25〜4/27 完了 |
 | 2026-05-02 to 2026-05-08 | High-weight domains | planned | |
 | 2026-05-09 to 2026-05-15 | MCP and reliability | planned | |
 | 2026-05-16 to 2026-05-22 | Mock exam loop | planned | |
